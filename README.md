@@ -11,6 +11,8 @@ Contents:
    - [L5 the session layer](#l5-the-session-layer)
    - [L6 the presentation layer](#l6-the-presentation-layer)
    - [L7 the application layer](#l7-the-application-layer)
+- [References](#References)
+
 ## What is the OSI model?
 
 The **Open Systems Interconnection model (OSI model)** is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols.
@@ -63,3 +65,7 @@ The **presentation layer** establishes context between application-layer entitie
 ## L7 the application layer
 
 The **application layer** is the OSI layer closest to the end user, which means both the OSI application layer and the user interact directly with the software application. This layer interacts with software applications that implement a communicating component. Such application programs fall outside the scope of the OSI model. Application-layer functions typically include identifying communication partners, determining resource availability, and synchronizing communication.
+
+## References
+
+https://www.google.com/search?q=osi+layer+wikipedia&rlz=1C1VDKB_enIN965IN965&oq=osi+layer+wiki&aqs=chrome.0.0i20i263i512j69i57j0i22i30l2.5276j0j7&sourceid=chrome&ie=UTF-8
