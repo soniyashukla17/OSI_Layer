@@ -39,7 +39,7 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 <p align="center"
    All layers are described below
 /p>
-![download](https://user-images.githubusercontent.com/88364921/128641197-da5b9666-e585-4ed0-a632-382b4a279914.jpeg)
+![download](https://user-images.githubusercontent.com/88364921/128641296-2f45b47b-36c6-49f8-a6e8-8ac671a38d51.jpeg)
 
 ## L1 the physical layer
 
