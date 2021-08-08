@@ -69,3 +69,4 @@ The **application layer** is the OSI layer closest to the end user, which means 
 ## References
 
 [wikipedia](https://www.google.com/search?q=osi+layer+wikipedia&rlz=1C1VDKB_enIN965IN965&oq=osi+layer+wiki&aqs=chrome.0.0i20i263i512j69i57j0i22i30l2.5276j0j7&sourceid=chrome&ie=UTF-8)
+[youtube](https://www.youtube.com/watch?v=LANW3m7UgWs)
