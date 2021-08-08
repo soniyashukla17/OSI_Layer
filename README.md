@@ -4,7 +4,6 @@ Contents:
 - [History](#History)
 - [Definitions](#Definitions)
 - [OSI Layers](#OSI Layers)
- - [Each Layers in Details](#Each Layers in Details)
    - [L1 the physical layer](#l1-the-physical-layer)
    - [L2 the data link layer](#l2-the-data-link-layer)
    - [L3 the network layer](#l3-the-network-layer)
