@@ -36,7 +36,7 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 
 
 ## OSI Layers                                         .
-![download](https://user-images.githubusercontent.com/88364921/128641296-2f45b47b-36c6-49f8-a6e8-8ac671a38d51.jpeg)
+
 ![Screenshot (1)](https://user-images.githubusercontent.com/88364921/128641615-a68dfda2-f5ad-41c4-9075-44252deeb036.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/88364921/128641627-1590d970-1c06-4388-9db7-bb653e9ae1a4.png)
 
