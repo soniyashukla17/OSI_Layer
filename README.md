@@ -35,7 +35,7 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 5. At the receiving device the data is passed from the lowest to the highest layer as a series of SDUs while being successively stripped    from each layer's header or footer until reaching the topmost layer, where the last of the data is consumed.
 
 ## OSI Layers
-Brief introduction of all layers are described below.
+                                                 .
 ![download](https://user-images.githubusercontent.com/88364921/128641296-2f45b47b-36c6-49f8-a6e8-8ac671a38d51.jpeg)
 
 ## L1 the physical layer
