@@ -39,6 +39,6 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 
 ## OSI Layers
 <div align="center">
-<img src="https://www.google.com/search?q=osi+model+images&rlz=1C1VDKB_enIN965IN965&sxsrf=ALeKk01AMFKpsYKB7tzcdn60-1smouRpUg:1628429462932&tbm=isch&source=iu&ictx=1&fir=vUWhHqcPgpU4wM%252Ce7KuAmgMsegNVM%252C_&vet=1&usg=AI4_-kSYvS2NLOstTWRqNvbDfK81PI29KA&sa=X&ved=2ahUKEwj94be9xKHyAhW07XMBHTtlAsYQ9QF6BAgJEAE#imgrc=vUWhHqcPgpU4wM">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imperva.com%2Flearn%2Fwp-content%2Fuploads%2Fsites%2F13%2F2020%2F02%2FOSI-7-layers.jpg&imgrefurl=https%3A%2F%2Fwww.imperva.com%2Flearn%2Fapplication-security%2Fosi-model%2F&tbnid=TS-fktTtMV82DM&vet=12ahUKEwjKssKnxaHyAhUwMbcAHaO2Db4QMygCegUIARC6AQ..i&docid=paOx09xCVPSdxM&w=560&h=456&q=osi%20model%20images&ved=2ahUKEwjKssKnxaHyAhUwMbcAHaO2Db4QMygCegUIARC6AQ">
 <p><strong>Figure:</strong> the OSI layers and their usage.</p>
 </div>
