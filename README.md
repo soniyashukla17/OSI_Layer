@@ -36,3 +36,9 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 3. At layer N-1 the SDU is concatenated with a header, a footer, or both, producing a layer N-1 PDU. It is then passed to layer N-2.
 4. The process continues until reaching the lowermost level, from which the data is transmitted to the receiving device.
 5. At the receiving device the data is passed from the lowest to the highest layer as a series of SDUs while being successively stripped    from each layer's header or footer until reaching the topmost layer, where the last of the data is consumed.
+
+## OSI Layers
+<div align="center">
+<img src="https://www.google.com/search?q=osi+model+images&rlz=1C1VDKB_enIN965IN965&sxsrf=ALeKk01AMFKpsYKB7tzcdn60-1smouRpUg:1628429462932&tbm=isch&source=iu&ictx=1&fir=vUWhHqcPgpU4wM%252Ce7KuAmgMsegNVM%252C_&vet=1&usg=AI4_-kSYvS2NLOstTWRqNvbDfK81PI29KA&sa=X&ved=2ahUKEwj94be9xKHyAhW07XMBHTtlAsYQ9QF6BAgJEAE#imgrc=vUWhHqcPgpU4wM">
+<p><strong>Figure:</strong> the OSI layers and their usage.</p>
+</div>
