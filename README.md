@@ -40,7 +40,7 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 ## OSI Layers
 
 <div align="center">
-<img src="media/osi-model-7-layers.svg">
+<img src=C:\Users\Nidhi Shukla\Downloads\OSI model - Wikipedia_files.svg">
 <p><strong>Figure:</strong> the OSI layers and their usage.</p>
 </div>
 
