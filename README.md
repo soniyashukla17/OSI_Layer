@@ -40,7 +40,7 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 ![Screenshot (1)](https://user-images.githubusercontent.com/88364921/128641615-a68dfda2-f5ad-41c4-9075-44252deeb036.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/88364921/128641627-1590d970-1c06-4388-9db7-bb653e9ae1a4.png) 
 
-Each layers are explained below.
+Each layers are explained below in brief.
 
 ## L1 the physical layer
 
