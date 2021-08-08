@@ -38,8 +38,7 @@ Data processing by two communicating OSI-compatible devices proceeds as follows:
 ## OSI Layers                                         .
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/88364921/128641615-a68dfda2-f5ad-41c4-9075-44252deeb036.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/88364921/128641627-1590d970-1c06-4388-9db7-bb653e9ae1a4.png)
-<p align = "center" Basic overview of seven layer of OSI Model is explained here./p>
+![Screenshot (3)](https://user-images.githubusercontent.com/88364921/128641627-1590d970-1c06-4388-9db7-bb653e9ae1a4.png) 
 
 ## L1 the physical layer
 
